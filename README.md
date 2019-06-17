@@ -1,2 +1,2 @@
 # hello-world
-new to GitHub
+My name is safin ghoghabori.I am new here.I am student of BCA.
